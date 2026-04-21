@@ -18,11 +18,6 @@ __pycache__/
 
 # Model files (optional: if you want to keep model, comment out the next line)
 # t_learner_model.pkl
-
-# Data files (if large, consider using Git LFS or ignore)
-data/*.csv
-data/*.xlsx
-
 # OS metadata
 .DS_Store
 Thumbs.db
