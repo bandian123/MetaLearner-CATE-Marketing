@@ -1,0 +1,32 @@
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (optional: if you want to keep model, comment out the next line)
+# t_learner_model.pkl
+
+# Data files (if large, consider using Git LFS or ignore)
+data/*.csv
+data/*.xlsx
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Logs and outputs
+*.log
+output/
